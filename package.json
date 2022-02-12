@@ -1,6 +1,6 @@
 {
   "name": "redux-edit-filter",
-  "homepage": "http://pekatet.github.io/filter-edit",
+  "homepage": "http://pekatet.github.io/redux-filter-edit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
